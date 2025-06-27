@@ -54,7 +54,6 @@ const TopicDetails = () => {
         }
       } catch (err) {
         setError("Could not load topic details.");
-        console.error(err);
       } finally {
         setLoading(false);
       }
@@ -63,13 +62,17 @@ const TopicDetails = () => {
     fetchTopic();
   }, [levelId, topicId, navigate]);
 
-  const handleSubmit = async () => {
-    if (!topic || !topic.quiz) {
-      alert("Quiz data is missing.");
-      return;
-    }
+  const formatContent = (text) => {
+    return text.split('\n').map((line, index) => (
+      <span key={index}>
+        {line}
+        <br />
+      </span>
+    ));
+  };
 
-    const total = topic.quiz.length;
+  const handleSubmit = async () => {
+    let total = topic.quiz.length;
     let correct = 0;
 
     topic.quiz.forEach((q, idx) => {
@@ -81,23 +84,22 @@ const TopicDetails = () => {
     setScore(correct);
     setSubmitted(true);
 
-    const userEmail = JSON.parse(localStorage.getItem("user"))?.email || "guest@example.com";
+    const userEmail = JSON.parse(localStorage.getItem('user'))?.email || 'guest@example.com';
 
     try {
-      await axios.post("http://localhost:2100/api/quiz-scores/submit", {
+      await axios.post('http://localhost:2100/api/quiz-scores/submit', {
         userEmail,
-        levelId: levelId,
-        topicId: topicId,
+        levelId: numericLevel,
+        topicId: topic.customId,
         score: correct,
         total,
       });
-      alert("✅ Quiz score submitted successfully!");
     } catch (err) {
-      console.error("Error submitting quiz score", err);
       if (err.response?.status === 409) {
         alert("❌ You have already submitted this quiz.");
       } else {
-        alert("❌ Something went wrong while submitting your quiz.");
+        console.error("Error submitting quiz score", err);
+        alert("Something went wrong while submitting your quiz.");
       }
     }
   };
@@ -115,7 +117,64 @@ const TopicDetails = () => {
       </div>
 
       <div className="topic-content">
-        <div className="topic-main-content">{topic.content}</div>
+        {topic.image && (
+          <div className="topic-image" style={{ margin: '20px 0', textAlign: 'center' }}>
+            <img
+              src={topic.image}
+              alt={topic.title || topic.topic}
+              style={{
+                maxWidth: '100%',
+                maxHeight: 300,
+                borderRadius: 12,
+                boxShadow: '0 2px 12px rgba(25, 118, 210, 0.10)'
+              }}
+            />
+          </div>
+        )}
+
+        <div className="topic-main-content">
+          {formatContent(topic.content || "")}
+        </div>
+
+        {topic.additionalImages?.length > 0 && (
+          <div className="additional-images">
+            <h3>Additional Resources</h3>
+            <div className="image-grid">
+              {topic.additionalImages.map((img, idx) => (
+                <img key={idx} src={img} alt={`Additional resource ${idx + 1}`} />
+              ))}
+            </div>
+          </div>
+        )}
+
+        {topic.videoLinks?.filter(v => v && !v.includes("video_url")).length > 0 && (
+          <div className="video-section">
+            <h3>Video Resources</h3>
+            <div className="video-grid">
+              {topic.videoLinks
+                .filter(v => v && !v.includes("video_url"))
+                .map((video, idx) => {
+                  const match = video.match(/(?:youtube\.com\/watch\?v=|youtu\.be\/)([\w-]{11})/);
+                  const videoId = match ? match[1] : null;
+
+                  return (
+                    <div key={idx} className="video-container">
+                      {videoId ? (
+                        <iframe
+                          src={`https://www.youtube.com/embed/${videoId}`}
+                          title={`YouTube video ${idx + 1}`}
+                          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                          allowFullScreen
+                        ></iframe>
+                      ) : (
+                        <a href={video} target="_blank" rel="noopener noreferrer">View Video {idx + 1}</a>
+                      )}
+                    </div>
+                  );
+                })}
+            </div>
+          </div>
+        )}
 
         {topic.quiz?.length > 0 && (
           <div className="topic-quiz">
@@ -128,33 +187,45 @@ const TopicDetails = () => {
                   {q.options.map((opt, i) => {
                     const isSelected = selectedAnswers[idx] === i;
                     const isCorrect = q.correctAnswer === opt;
-                    const isWrongSelected = submitted && isSelected && !isCorrect;
-                    const isRight = submitted && isCorrect;
-                    const optionClass = submitted
-                      ? isRight
-                        ? "correct"
-                        : isWrongSelected
-                        ? "wrong"
-                        : ""
-                      : "";
+
+                    let optionClass = '';
+                    let symbol = '';
+
+                    if (submitted) {
+                      if (isCorrect) {
+                        optionClass = 'correct';
+                        symbol = '✔';
+                      } else if (isSelected) {
+                        optionClass = 'wrong';
+                        symbol = '❌';
+                      }
+                    }
 
                     return (
                       <label
                         key={i}
                         className={`quiz-option ${optionClass}`}
-                        style={{ pointerEvents: submitted ? "none" : "auto" }}
+                        style={{
+                          pointerEvents: submitted ? 'none' : 'auto',
+                          display: 'flex',
+                          justifyContent: 'space-between',
+                          alignItems: 'center'
+                        }}
                       >
-                        <input
-                          type="radio"
-                          name={`question-${idx}`}
-                          value={i}
-                          checked={selectedAnswers[idx] === i}
-                          onChange={() =>
-                            setSelectedAnswers((prev) => ({ ...prev, [idx]: i }))
-                          }
-                          disabled={submitted}
-                        />
-                        <span>{opt}</span>
+                        <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+                          <input
+                            type="radio"
+                            name={`question-${idx}`}
+                            value={i}
+                            checked={selectedAnswers[idx] === i}
+                            onChange={() =>
+                              setSelectedAnswers((prev) => ({ ...prev, [idx]: i }))
+                            }
+                            disabled={submitted}
+                          />
+                          <span>{opt}</span>
+                        </div>
+                        {submitted && <span className="feedback-icon">{symbol}</span>}
                       </label>
                     );
                   })}
@@ -175,6 +246,18 @@ const TopicDetails = () => {
             )}
           </div>
         )}
+
+        <div className="topic-navigation-buttons" style={{ marginTop: "40px", display: "flex", justifyContent: "space-between", gap: "10px", flexWrap: "wrap" }}>
+          <button className="nav-button" onClick={() => navigate(getPreviousLink(), { replace: true })}>
+            ← Previous
+          </button>
+          <Link to="/modules" className="nav-button">Module Page</Link>
+          {nextLink && (
+            <button className="nav-button" onClick={() => navigate(nextLink, { replace: true })}>
+              Next →
+            </button>
+          )}
+        </div>
       </div>
     </div>
   );
