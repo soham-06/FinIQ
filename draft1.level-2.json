@@ -1,0 +1,1320 @@
+[{
+  "_id": {
+    "$oid": "685911f32182920369535ffc"
+  },
+  "seriesTitle": "Start Smart: Your Friendly Guide to Finance & Money Management",
+  "customId": "level2-topic-001",
+  "levels": [
+    {
+      "level": 2,
+      "topics": [
+        {
+          "topic": "Investment Basics",
+          "customId": "level2-topic-001",
+          "summary": "Most people work hard for money — but what if your money could work for you instead? That’s the core idea behind investing.",
+          "image": "https://res.cloudinary.com/drpti5prb/image/upload/3200373_40450_rezhvp",
+          "content": "It’s not just for the rich or finance experts — it’s for anyone who wants to build a better financial future. Whether you're saving for a home, a dream vacation, or retirement, smart investing can help your money grow faster than saving alone.\n\nWhat Is Investing?\nAt its heart, investing means putting your money into something with the hope that it will grow over time.\nUnlike saving — which keeps your money safe and easily accessible — investing involves a bit of risk. But with the right knowledge, it also brings higher potential returns.\nHere’s a simple way to look at it:\nSavings = Safety + Low Returns\nInvestments = Risk + Potential for Higher Returns\n\nTypes of Investments You Should Know\n\nStocks (Equities)\nBuying a stock means you own a small part of a company.\nIf the company performs well, your stock value goes up. Some stocks also pay you dividends (a share of profits).\nRisk: Medium to High\nReturn: Potentially High over the long term\nIdeal for: Long-term wealth building\n\nBonds (Fixed-Income Securities)\nBonds are like loans you give to a company or government. They promise to pay you back with interest over time.\nRisk: Low to Medium\nReturn: Steady, but usually lower than stocks\nIdeal for: Income stability and diversification\n\nMutual Funds\nThese are collections of stocks, bonds, or other assets pooled together. A fund manager handles where the money goes.\nRisk: Varies depending on fund type\nReturn: Moderate to high (depending on fund)\nIdeal for: Beginners looking for managed exposure\n\nExchange-Traded Funds (ETFs)\nSimilar to mutual funds but traded like stocks on an exchange.\nThey’re usually cheaper and more flexible.\nRisk: Varies\nReturn: Similar to mutual funds\nIdeal for: Low-cost diversified investing\n\nReal Estate\nInvesting in property (houses, apartments, land) for rental income or price appreciation.\nRisk: Medium to High (depends on market)\nReturn: High potential, but requires large capital\nIdeal for: Long-term goals and passive income\n\nPublic Provident Fund (PPF) / National Savings Schemes (India-specific)\nGovernment-backed investment with guaranteed returns, tax benefits, and long lock-in period.\nRisk: Very Low\nReturn: Moderate, but tax-free\nIdeal for: Safe, long-term saving\n\nGold and Commodities\nTraditional store of value. You can buy physical gold or invest via Gold ETFs.\nRisk: Medium (market driven)\nReturn: Moderate\nIdeal for: Hedge against inflation or currency devaluation\n\nRisk vs Return: The Trade-Off\nThe higher the return you want, the more risk you usually need to take.\nLow risk = low reward (e.g., savings account)\nHigh risk = higher potential reward (e.g., stocks)\nBut high risk also means possible losses — so diversification is key.\n\nPower of Compounding in Investing\nCompounding isn’t just for interest — it works in investing too.\nWhen your returns earn more returns, your wealth snowballs over time.\nExample:\nInvest ₹5,000/month at 12% annual return (SIP in mutual funds)\nIn 10 years: ₹11.6 lakh\nIn 20 years: ₹49.9 lakh\nIn 30 years: ₹1.76 crore\nThat’s the magic of starting early and staying invested.\n\nCommon Investment Mistakes to Avoid\nChasing quick returns\nNot doing research or following the crowd\nInvesting without a goal\nIgnoring inflation and taxes\nTiming the market instead of staying consistent\n\nSetting Investment Goals\nAlways ask:\nWhy am I investing? (goal: house, retirement, etc.)\nHow long can I invest for? (duration: short, medium, long)\nHow much risk can I handle? (risk profile: conservative to aggressive)\nBased on your answers, you’ll choose different assets.\n\nAdvanced Concepts (Explained Simply)\n\nAsset Allocation\nThis means dividing your money across different asset classes (stocks, bonds, gold, etc.) to balance risk and return.\nExample: 60% stocks, 30% bonds, 10% gold\nThe right mix depends on your age, risk appetite, and goals.\n\nDiversification\n“Don’t put all your eggs in one basket.”\nSpread your investments across different assets and sectors to reduce the impact of one bad performer.\n\nRisk Profiling\nAre you risk-averse (want safety), moderate (balanced), or aggressive (want growth)?\nYour profile helps decide where to invest.\nThere are online tools to help you assess this.\n\nSIPs (Systematic Investment Plans)\nInstead of investing a lump sum, invest small amounts regularly in mutual funds.\nThis builds discipline and reduces market timing risk.\n\nInflation-Adjusted Returns\nIf inflation is 6% and your investment gives 8%, your real return is only 2%.\nAlways consider inflation when evaluating investment performance.\n\nTaxation on Investments (India)\nShort-Term Capital Gains (STCG): Profits from assets held less than 1 year (stocks) taxed at 15%\nLong-Term Capital Gains (LTCG): Profits from stocks held more than 1 year taxed at 10% (above ₹1 lakh)\nDebt fund taxation is different; always check current rules\nTax-efficient investing can make a big difference to your net returns.\n\nFinal Thoughts\nInvesting is not gambling — it’s a strategy.\nIt rewards consistency, patience, and learning. Even small amounts invested regularly can lead to big results over time.\nDon’t wait to “have enough money” to start. Start with what you have, where you are.\nAnd always remember: time in the market beats timing the market.\n",
+          "additionalImages": [
+            "https://res.cloudinary.com/drpti5prb/image/upload/9q1980k8_jjuq9u",
+            "https://res.cloudinary.com/drpti5prb/image/upload/equity-crowdfunding-1024x873_ogtcub"
+          ],
+          "videoLinks": [
+            "https://www.youtube.com/watch?v=qIw-yFC-HNU",
+            "video_url_1",
+            "video_url_2"
+          ],
+          "quiz": [
+            {
+              "question": "What is the primary goal of investing?",
+              "options": [
+                "To avoid taxes",
+                "To grow money over time",
+                "To keep money safe from theft",
+                "To convert currency"
+              ],
+              "answer": "To grow money over time"
+            },
+            {
+              "question": "Which investment type represents ownership in a company?",
+              "options": [
+                "Bond",
+                "Mutual Fund",
+                "Stock",
+                "PPF"
+              ],
+              "answer": "Stock"
+            },
+            {
+              "question": "What does diversification help with in investing?",
+              "options": [
+                "Maximizing losses",
+                "Avoiding taxes",
+                "Reducing risk",
+                "Increasing inflation"
+              ],
+              "answer": "Reducing risk"
+            },
+            {
+              "question": "Which one is a low-risk, government-backed investment in India?",
+              "options": [
+                "Stock",
+                "Gold",
+                "PPF",
+                "Mutual Fund"
+              ],
+              "answer": "PPF"
+            },
+            {
+              "question": "What does SIP stand for?",
+              "options": [
+                "Systematic Income Plan",
+                "Simple Investment Protocol",
+                "Systematic Investment Plan",
+                "Savings Interest Percentage"
+              ],
+              "answer": "Systematic Investment Plan"
+            },
+            {
+              "question": "If your investment grows at 10% annually and inflation is 6%, what is your real return?",
+              "options": [
+                "16%",
+                "10%",
+                "6%",
+                "4%"
+              ],
+              "answer": "4%"
+            },
+            {
+              "question": "Which investment offers potential dividends?",
+              "options": [
+                "Stocks",
+                "Bonds",
+                "Real Estate",
+                "Gold"
+              ],
+              "answer": "Stocks"
+            },
+            {
+              "question": "What is the benefit of compounding?",
+              "options": [
+                "Reduces risk",
+                "Grows returns exponentially",
+                "Increases taxes",
+                "Avoids inflation"
+              ],
+              "answer": "Grows returns exponentially"
+            },
+            {
+              "question": "What is 'asset allocation'?",
+              "options": [
+                "Investing only in one stock",
+                "Dividing your money across asset types",
+                "Putting all money in savings",
+                "Avoiding investment in gold"
+              ],
+              "answer": "Dividing your money across asset types"
+            },
+            {
+              "question": "What does LTCG stand for in taxation?",
+              "options": [
+                "Long-Term Capital Gains",
+                "Last Taxable Capital Growth",
+                "Low Tax Credit Guarantee",
+                "Lump-sum Tax Calculation Guide"
+              ],
+              "answer": "Long-Term Capital Gains"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "685912332182920369535ffe"
+  },
+  "seriesTitle": "Start Smart: Your Friendly Guide to Finance & Money Management",
+  "customId": "level2-topic-002",
+  "levels": [
+    {
+      "level": 2,
+      "topics": [
+        {
+          "topic": "Risk & Return in Investments",
+          "customId": "level2-topic-002",
+          "summary": "Risk and return are two sides of the same coin in the world of investing.",
+          "image": "https://res.cloudinary.com/drpti5prb/image/upload/featured-image-for-blogs-1160x665-2023-07-27T155916.693_xnquru",
+          "content": "Understanding how they work — together and separately — is key to making smart decisions with your money.\nLet’s explore how they interact, what types of risks exist, and how to balance them to meet your goals.\n\n What Is Investment Risk?\nInvestment risk is the possibility of losing some or all of the money you’ve invested.\nIt doesn’t mean you’ll always lose money — but it means there’s a chance you might.\n\nTypes of Investment Risk:\n1. Market Risk: This is the risk that the entire market (like the stock market) may go down due to economic downturns, political events, or global issues.\n2. Credit Risk: This applies mainly to bonds. It’s the risk that the borrower (company/government) might not repay your money.\n3. Inflation Risk: Even if your investment grows, inflation might reduce the actual value of your returns.\n4. Liquidity Risk: You might not be able to quickly sell your investment without taking a loss.\n5. Currency Risk: If you invest in assets priced in another currency, fluctuations in exchange rates can affect your return.\n6. Interest Rate Risk: Especially for bonds, rising interest rates can cause bond prices to fall.\n\n What Is Return?\nReturn is the gain (or loss) you earn from your investment. It can come in different forms:\n- Capital Appreciation: The increase in the value of your investment over time.\n- Interest Income: Money you earn from lending (like in FDs or bonds).\n- Dividend Income: Payments from companies to shareholders.\n- Rental Income: If you invest in real estate.\n\nReturn is usually measured as a percentage:\nReturn (%) = (Profit / Original Investment) × 100\n\nExample:\nIf you invest ₹10,000 and it grows to ₹11,500 after one year,\nYour return is (1,500 / 10,000) × 100 = 15%\n\n The Risk-Return Trade-off\nHere’s a basic rule in investing: Higher the potential return, higher the risk.\nAnd vice versa — lower risk usually means lower potential return.\nThis is called the risk-return trade-off.\n\nExample:\n- A savings account gives very low risk and very low return (~3–4%).\n- Mutual funds or stocks offer higher return potential, but also come with more risk.\n\nUnderstanding your own risk tolerance (how much risk you’re comfortable taking) helps guide where and how you should invest.\n\n How to Manage Risk\n1. Diversification: Don’t put all your money in one place. Spread across sectors, geographies, and asset types (stocks, bonds, gold, etc.).\n2. Asset Allocation: Decide how much of your money goes into different investment types based on your age, goals, and risk appetite.\n3. Time Horizon: Longer investment periods allow more time to recover from dips in the market.\n4. Regular Review: Markets change. Your risk profile might too — review investments regularly.\n\n Systematic Risk vs Unsystematic Risk\nThese are two categories of risk:\n- Systematic Risk: Affects the whole market (e.g., recession, war, inflation). You can’t avoid this completely.\n- Unsystematic Risk: Specific to one company or sector. This can be reduced with diversification.\n\n Risk Profiling\nBefore investing, you need to know your own profile:\n- Conservative: Prefer safety over returns. Suitable for FDs, government bonds.\n- Moderate: Okay with some risk. Prefer balanced funds or blue-chip stocks.\n- Aggressive: Can handle market swings. Prefer equities, small-cap stocks, or crypto.\n\nMany investment apps and advisors ask you questions to determine your risk profile — this helps match you with suitable products.\n\n Sharpe Ratio — A Bit Technical, But Useful\nSharpe Ratio is used to compare the return of an investment relative to its risk.\nFormula:\nSharpe Ratio = (Return – Risk-Free Rate) / Standard Deviation\nHigher the ratio, better the risk-adjusted return.\n\nIn simple terms: If two investments give you the same return, the one with lower risk is better — and Sharpe ratio helps identify that.\n\n Volatility: Another Angle on Risk\nVolatility means how much the price of an asset moves up and down.\n- High volatility = bigger swings = more risk.\n- Low volatility = more stable, but might offer lower returns.\nInvestments like cryptocurrency or small-cap stocks are usually highly volatile.\n\n Return Isn't Just About Money\nAlso consider:\n- Liquidity: Can you sell the investment quickly?\n- Tax Efficiency: Some returns are taxed higher than others.\n- Alignment with Goals: Is it helping you reach a specific goal?\n\n Final Thought\nRisk and return go hand-in-hand. You can’t eliminate all risk — but you can learn how to manage and balance it.\nUnderstanding your personal comfort zone, timeline, and goals will help you make informed decisions that grow your wealth smartly.\n\nKey Takeaways:\n- Every investment carries some risk — understand which ones matter for you.\n- Higher returns usually mean higher risks.\n- Managing risk through diversification, asset allocation, and long-term thinking is crucial.\n- Tools like Sharpe Ratio help compare investments.\n- Know your risk tolerance — and invest accordingly.\n\nNow let’s test your understanding with a quick quiz.\n\n",
+          "additionalImages": [
+            "https://res.cloudinary.com/drpti5prb/image/upload/obm29hgm_ya7nee",
+            "https://res.cloudinary.com/drpti5prb/image/upload/u4vnu1js_okcjnv"
+          ],
+          "videoLinks": [
+            "https://www.youtube.com/watch?v=7mo167ohvJw",
+            "video_url_1",
+            "video_url_2"
+          ],
+          "quiz": [
+            {
+              "question": "What does the term 'investment risk' refer to?",
+              "options": [
+                "Guaranteed returns on your investment",
+                "The chance of earning double returns",
+                "The possibility of losing some or all of your money",
+                "A fixed return rate on savings"
+              ],
+              "answer": "The possibility of losing some or all of your money"
+            },
+            {
+              "question": "Which of the following is a type of market-wide risk?",
+              "options": [
+                "Credit risk",
+                "Systematic risk",
+                "Liquidity risk",
+                "Company-specific risk"
+              ],
+              "answer": "Systematic risk"
+            },
+            {
+              "question": "What does a higher Sharpe Ratio indicate?",
+              "options": [
+                "Higher tax on investments",
+                "Better risk-adjusted return",
+                "Lower market price",
+                "Worse performance"
+              ],
+              "answer": "Better risk-adjusted return"
+            },
+            {
+              "question": "Which of these can reduce unsystematic risk?",
+              "options": [
+                "Investing only in one stock",
+                "Diversifying your investments",
+                "Holding cash only",
+                "Avoiding the market entirely"
+              ],
+              "answer": "Diversifying your investments"
+            },
+            {
+              "question": "Which of the following is NOT a form of return?",
+              "options": [
+                "Interest income",
+                "Dividend income",
+                "Rental income",
+                "Credit rating"
+              ],
+              "answer": "Credit rating"
+            },
+            {
+              "question": "What does 'volatility' in investing refer to?",
+              "options": [
+                "Government bond yield",
+                "Fluctuation in investment value",
+                "Stable growth",
+                "Fixed return"
+              ],
+              "answer": "Fluctuation in investment value"
+            },
+            {
+              "question": "What is the basic formula for calculating return (%)?",
+              "options": [
+                "(Original Investment / Profit) × 100",
+                "(Profit / Original Investment) × 100",
+                "(Return – Risk) / Time",
+                "Investment × Time × Rate"
+              ],
+              "answer": "(Profit / Original Investment) × 100"
+            },
+            {
+              "question": "Which investment profile prefers safety over high returns?",
+              "options": [
+                "Aggressive",
+                "Moderate",
+                "Conservative",
+                "Speculative"
+              ],
+              "answer": "Conservative"
+            },
+            {
+              "question": "Which risk is mainly associated with bonds and loans?",
+              "options": [
+                "Market risk",
+                "Credit risk",
+                "Volatility risk",
+                "Currency risk"
+              ],
+              "answer": "Credit risk"
+            },
+            {
+              "question": "What is the 'risk-return trade-off'?",
+              "options": [
+                "Low risk always gives high return",
+                "High return guarantees no risk",
+                "Higher returns come with higher risk",
+                "Risk and return are unrelated"
+              ],
+              "answer": "Higher returns come with higher risk"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6859125a2182920369536000"
+  },
+  "seriesTitle": "Start Smart: Your Friendly Guide to Finance & Money Management",
+  "customId": "level2-topic-003",
+  "levels": [
+    {
+      "level": 2,
+      "topics": [
+        {
+          "topic": "Personal Financial Planning",
+          "customId": "level2-topic-003",
+          "summary": "Personal financial planning is like building a personalized roadmap for your money.",
+          "image": "https://res.cloudinary.com/drpti5prb/image/upload/chalkboard-with-financial-planning-text-piggy-bank_owegjn",
+          "content": "It ensures that every rupee you earn is aligned with your goals — whether it's buying a house, traveling, saving for retirement, or simply achieving peace of mind.\n\n What Is Personal Financial Planning?\nPersonal financial planning is the process of evaluating your current financial situation, setting future financial goals, and creating a strategy to achieve them. It's not a one-time activity — it's a dynamic and ongoing process that adapts as your life changes.\n\n Key Components of a Financial Plan\n\n1. Goal Setting\nThe foundation of financial planning is setting clear, realistic goals. These should be SMART — Specific, Measurable, Achievable, Relevant, and Time-bound. For example, “Save ₹5 lakhs for a down payment in 3 years” is more effective than “Save money.”\n\n2. Understanding Your Current Financial Situation\nBefore planning ahead, know where you stand now. List all your income sources, monthly expenses, assets (bank balances, investments, property), and liabilities (loans, EMIs, credit card dues). Use this to calculate your net worth:\nNet Worth = Total Assets – Total Liabilities\nThis snapshot helps you decide what’s working and what needs fixing.\n\n3. Budgeting and Expense Management\nBudgeting is about assigning every rupee a role. A common strategy is the 50/30/20 rule:\n- 50% for needs (bills, groceries, rent)\n- 30% for wants (dining out, shopping)\n- 20% for savings and debt repayments\nTrack your spending habits regularly using apps or spreadsheets to identify leaks and plug them.\n\n4. Emergency Fund\nAn emergency fund is your financial cushion. Aim to save 3–6 months’ worth of essential expenses in a liquid and accessible account. It’s meant for job loss, medical emergencies, or urgent repairs — not for vacations or shopping.\n\n5. Debt Management\nAll debt isn’t bad, but unmanaged debt is dangerous. Prioritize clearing high-interest loans first (like credit cards). Two useful methods:\n- Avalanche Method: Focus on the highest-interest debt first.\n- Snowball Method: Clear the smallest debt first for psychological wins.\nKeep EMIs below 40% of your monthly income.\n\n6. Insurance and Risk Management\nInsurance isn’t just a safety net — it’s risk transfer. Every plan should include:\n- Term Life Insurance (pure protection)\n- Health Insurance (for rising medical costs)\n- Personal Accident or Disability Insurance\nDon’t treat insurance as an investment — they serve different purposes.\n\n7. Investment Planning\nMatch your investments to your goals and timeframes:\n- Short-term (1–3 years): Fixed deposits, liquid funds\n- Medium-term (3–5 years): Hybrid funds, recurring deposits\n- Long-term (5+ years): Equity mutual funds, PPF, stocks\nUse SIPs (Systematic Investment Plans) for consistent growth, and diversify to reduce risk.\n\n8. Retirement Planning\nThe earlier you begin, the more powerful compounding becomes. Estimate how much monthly income you'll need post-retirement and back-calculate how much to save today. Instruments like EPF, NPS, PPF, and equity mutual funds are key players here.\n\n9. Tax Planning\nDon’t wait till March to think about taxes. Start early and utilize tax-saving instruments like:\n- Section 80C: ELSS, PPF, Life Insurance, Tax-saving FDs\n- Section 80D: Health Insurance premiums\n- Section 80CCD(1B): NPS contributions\nEfficient tax planning legally reduces your tax burden while meeting your investment goals.\n\n10. Estate Planning\nEstate planning ensures your wealth goes to the right people with minimal legal hassle. Write a will, nominate your beneficiaries in bank accounts and insurance, and consider a power of attorney if necessary. It’s essential even if you’re young.\n\n Behavioral Finance: The Emotional Side of Money\nA lot of money decisions are emotional. Fear, greed, social pressure — they all impact our choices. That’s why automation (like auto-SIP), regular reviews, and a long-term mindset help avoid impulsive decisions and keep you on track.\n\n Review and Adjust Regularly\nYour financial plan should evolve with your life. Review it every 6–12 months or after any major event like marriage, childbirth, job change, or a health emergency. Flexibility is a sign of a healthy plan.\n\n Tools That Help\n- Apps: ET Money, INDmoney, Money View, Walnut\n- Robo-Advisors: Scripbox, Groww, Zerodha Coin\n- Spreadsheets: For custom budgeting and tracking\nThese help monitor goals, automate savings, and make informed decisions.\n\n Final Thoughts\nFinancial planning isn’t about becoming rich overnight — it’s about gaining control. It gives you freedom from paycheck-to-paycheck living, prepares you for emergencies, and builds a life aligned with your values and dreams.\nStart wherever you are. Take small, consistent steps. The best financial plan is the one you actually stick to.",
+          "additionalImages": [
+            "https://res.cloudinary.com/drpti5prb/image/upload/fha-clarifies-report-on-reallocation-of-gwarinpa-police-station_baodmh",
+            "https://res.cloudinary.com/drpti5prb/image/upload/Personal-financial-Planning_ujw9tn"
+          ],
+          "videoLinks": [
+            "https://www.youtube.com/watch?v=vj7iWH5tFM0",
+            "video_url_1",
+            "video_url_2"
+          ],
+          "quiz": [
+            {
+              "question": "What does the 'S' in SMART goals stand for in financial planning?",
+              "options": [
+                "Secure",
+                "Sustainable",
+                "Specific",
+                "Simple"
+              ],
+              "answer": "Specific"
+            },
+            {
+              "question": "What does Net Worth equal in personal financial planning?",
+              "options": [
+                "Income – Expenses",
+                "Assets + Liabilities",
+                "Total Assets – Total Liabilities",
+                "Savings – Loans"
+              ],
+              "answer": "Total Assets – Total Liabilities"
+            },
+            {
+              "question": "According to the 50/30/20 rule, what percentage of your income should go towards savings and debt repayment?",
+              "options": [
+                "20%",
+                "30%",
+                "50%",
+                "10%"
+              ],
+              "answer": "20%"
+            },
+            {
+              "question": "What is the recommended amount to keep in an emergency fund?",
+              "options": [
+                "One month of rent",
+                "Six months of income",
+                "3–6 months of essential expenses",
+                "10% of annual income"
+              ],
+              "answer": "3–6 months of essential expenses"
+            },
+            {
+              "question": "Which debt repayment method focuses on clearing the highest-interest debt first?",
+              "options": [
+                "Snowball Method",
+                "Stacking Method",
+                "Avalanche Method",
+                "Waterfall Method"
+              ],
+              "answer": "Avalanche Method"
+            },
+            {
+              "question": "Which of the following is NOT a type of insurance generally included in a financial plan?",
+              "options": [
+                "Term Life Insurance",
+                "Health Insurance",
+                "Personal Accident Insurance",
+                "Car Warranty Insurance"
+              ],
+              "answer": "Car Warranty Insurance"
+            },
+            {
+              "question": "Which financial product is suitable for long-term goals like retirement?",
+              "options": [
+                "Liquid funds",
+                "Equity Mutual Funds",
+                "Recurring Deposit",
+                "Savings Account"
+              ],
+              "answer": "Equity Mutual Funds"
+            },
+            {
+              "question": "What tax-saving section allows you to claim deductions for investments like ELSS, PPF, and Life Insurance?",
+              "options": [
+                "Section 80D",
+                "Section 80C",
+                "Section 24",
+                "Section 10"
+              ],
+              "answer": "Section 80C"
+            },
+            {
+              "question": "What document helps transfer your wealth according to your wishes after your death?",
+              "options": [
+                "PAN Card",
+                "Nomination Form",
+                "Will",
+                "Loan Agreement"
+              ],
+              "answer": "Will"
+            },
+            {
+              "question": "Which of the following is a key reason why reviewing your financial plan regularly is important?",
+              "options": [
+                "To calculate more taxes",
+                "To increase your income automatically",
+                "To adapt it to life changes like marriage or job changes",
+                "To open new credit cards"
+              ],
+              "answer": "To adapt it to life changes like marriage or job changes"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6859128b2182920369536002"
+  },
+  "seriesTitle": "Start Smart: Your Friendly Guide to Finance & Money Management",
+  "customId": "level2-topic-004",
+  "levels": [
+    {
+      "level": 2,
+      "topics": [
+        {
+          "topic": "Taxation & Wealth Management",
+          "customId": "level2-topic-004",
+          "summary": "Taxation and wealth management are two sides of the same coin — one takes away a portion of your income, and the other helps you grow what's left.",
+          "image": "https://res.cloudinary.com/drpti5prb/image/upload/fk0sctz9_aj4vhg",
+          "content": "Mastering both is crucial to maximizing your earnings, securing your future, and building long-term financial health.\n\n Why Taxes Matter More Than You Think\nTaxes are mandatory contributions to the government and affect everything from your take-home salary to your returns on investments. Whether you're earning a salary, running a business, or making profits from stocks — taxes are always in the picture.\n\nBut taxes aren’t just deductions. If managed well, they can be reduced legally, helping you retain more of your income for savings and investments.\n\n Understanding the Indian Tax System (Simplified)\nThere are two main tax regimes for individual taxpayers:\n1. Old Tax Regime – Higher tax slabs but offers deductions and exemptions (like Section 80C, 80D, HRA, etc.)\n2. New Tax Regime – Lower tax rates but no major deductions\n\nYou can choose the one that benefits you most. Tax slabs are based on income brackets and age (with senior citizens getting relaxed limits).\n\n Key Tax Terms You Should Know:\nGross Income – Total income before taxes and deductions\nTaxable Income – Income on which tax is calculated (after deductions/exemptions)\nTDS (Tax Deducted at Source) – Tax taken by employer/bank before giving you money\nForm 16 – Certificate issued by your employer showing how much TDS was deducted\nITR (Income Tax Return) – A form you file every year to report your income and pay/refund taxes\n\n Wealth Management: The Bigger Picture\nWealth management isn’t just about saving — it’s about strategic growth, protection, and efficient transfer of wealth. It’s a combination of financial planning, tax optimization, risk management, and estate planning.\n\n Components of Wealth Management\n1. Investment Planning – Putting your money in the right assets (mutual funds, stocks, real estate) based on your goals, risk tolerance, and time horizon.\n2. Tax Planning – Structuring income and investments to reduce your tax liability.\n3. Retirement Planning – Ensuring you have enough wealth to sustain your lifestyle post-retirement.\n4. Insurance Planning – Using life, health, and asset insurance to protect your wealth from unforeseen shocks.\n5. Estate Planning – Creating a Will, setting up nominations, or forming trusts to pass on your wealth smoothly to your heirs.\n\n How Taxes Affect Your Wealth\nEvery rupee you save in taxes can be reinvested to grow your wealth faster. But it’s important to avoid illegal shortcuts. Legal tax-saving options include:\n\n- Section 80C: ELSS, PPF, life insurance premiums, tax-saving FDs (max ₹1.5 lakh/year)\n- Section 80D: Health insurance premium\n- HRA, LTA: House rent and travel-related deductions\n- Capital Gains Tax Planning: Different taxes apply to short-term and long-term gains (equity, property, gold)\n\n Tax-Efficient Investment Strategies\nNot all investments are taxed the same way. Here’s how to invest smartly:\n\n- Use ELSS mutual funds to grow wealth and save taxes\n- Prefer long-term equity over short-term to enjoy lower LTCG rates\n- Choose tax-free options like PPF, Sukanya Samriddhi Yojana, or EPF for conservative wealth growth\n- Consider indexation benefits on debt mutual funds after 3 years\n\n Estate Planning – Don’t Ignore This\nMany people ignore estate planning assuming it’s only for the rich. But everyone should:\n\n- Make a Will: So your assets go to the right people\n- Nominate: On bank accounts, insurance, mutual funds\n- Consider Joint Accounts: For smoother asset transition\n- Understand Inheritance Tax: Currently not applicable in India, but tax on capital gains might apply to inherited assets\n\n Common Mistakes to Avoid\n- Not filing your ITR (even when TDS is deducted)\n- Ignoring tax on side income or capital gains\n- Not maintaining proper documentation of investments\n- Missing deadlines for tax-saving investments\n- Failing to update nominations after marriage, divorce, etc.\n\n Bottom Line\nIf you manage your taxes well, you can multiply your wealth significantly over time. If you don’t, you lose money unnecessarily. Combine good investment habits with tax-efficient planning, and your wealth will grow not just faster — but smarter.\n\nTaxation takes money out of your pocket. Wealth management puts it back in — and then some.\nUnderstanding both ensures you work hard not just for your income, but for a future where your money works even harder for you.",
+          "additionalImages": [
+            "https://res.cloudinary.com/drpti5prb/image/upload/financeeee_ull8ht",
+            "https://res.cloudinary.com/drpti5prb/image/upload/nE7HcnF3BmvnHHgzzVWcsZ_cattln"
+          ],
+          "videoLinks": [
+            "https://www.youtube.com/watch?v=UtrbnjlJdvg",
+            "video_url_1",
+            "video_url_2"
+          ],
+          "quiz": [
+            {
+              "question": "What is the primary difference between the old and new tax regimes in India?",
+              "options": [
+                "The old regime has lower tax rates",
+                "The new regime offers more deductions",
+                "The old regime offers deductions and exemptions, while the new one does not",
+                "There is no difference"
+              ],
+              "answer": "The old regime offers deductions and exemptions, while the new one does not"
+            },
+            {
+              "question": "Which of the following sections allows tax deductions for health insurance premiums?",
+              "options": [
+                "Section 80C",
+                "Section 24",
+                "Section 80D",
+                "Section 10(10D)"
+              ],
+              "answer": "Section 80D"
+            },
+            {
+              "question": "What is TDS?",
+              "options": [
+                "Tax Deduction System",
+                "Tax Deducted at Source",
+                "Total Deductions and Savings",
+                "Tax Due Summary"
+              ],
+              "answer": "Tax Deducted at Source"
+            },
+            {
+              "question": "Which document is issued by your employer showing deducted tax?",
+              "options": [
+                "Form 26AS",
+                "Form 15G",
+                "Form 16",
+                "PAN Card"
+              ],
+              "answer": "Form 16"
+            },
+            {
+              "question": "What is estate planning primarily about?",
+              "options": [
+                "Saving for property purchase",
+                "Creating a Will and planning asset transfer",
+                "Planning your taxes",
+                "Building real estate assets"
+              ],
+              "answer": "Creating a Will and planning asset transfer"
+            },
+            {
+              "question": "Which of these is a tax-saving investment under Section 80C?",
+              "options": [
+                "Fixed Deposit (less than 5 years)",
+                "Mutual Funds (non-ELSS)",
+                "Equity Linked Saving Scheme (ELSS)",
+                "Savings Account Interest"
+              ],
+              "answer": "Equity Linked Saving Scheme (ELSS)"
+            },
+            {
+              "question": "Why is tax planning important for wealth management?",
+              "options": [
+                "It ensures faster tax refunds",
+                "It helps reduce liabilities and increase investable income",
+                "It avoids the need for insurance",
+                "It prevents account closures"
+              ],
+              "answer": "It helps reduce liabilities and increase investable income"
+            },
+            {
+              "question": "What is the purpose of indexation in capital gains tax?",
+              "options": [
+                "To adjust gains for inflation",
+                "To reduce your tax slab",
+                "To increase your return rate",
+                "To avoid filing ITR"
+              ],
+              "answer": "To adjust gains for inflation"
+            },
+            {
+              "question": "Which of these investment options is entirely tax-free in India?",
+              "options": [
+                "Stock market gains within a year",
+                "Public Provident Fund (PPF)",
+                "Short-term debt mutual funds",
+                "Rental income"
+              ],
+              "answer": "Public Provident Fund (PPF)"
+            },
+            {
+              "question": "What is the result of not filing your Income Tax Return (ITR) even if TDS is deducted?",
+              "options": [
+                "You are exempt from taxes",
+                "You get an automatic refund",
+                "You may miss out on refunds or get penalized",
+                "Your employer is responsible for filing it"
+              ],
+              "answer": "You may miss out on refunds or get penalized"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "685912d42182920369536004"
+  },
+  "seriesTitle": "Start Smart: Your Friendly Guide to Finance & Money Management",
+  "customId": "level2-topic-005",
+  "levels": [
+    {
+      "level": 2,
+      "topics": [
+        {
+          "topic": "Insurance & Risk Management",
+          "customId": "level2-topic-005",
+          "summary": "Insurance and risk management are essential tools for protecting your financial well-being. While wealth creation focuses on growing your money, insurance and risk management ensure that unexpected events don’t wipe it out.",
+          "image": "https://res.cloudinary.com/drpti5prb/image/upload/insurance-and-risk-management_mckbug",
+          "content": "Whether it’s a medical emergency, accident, theft, or loss of income — the right insurance can be a financial lifesaver.\n\n What Is Risk Management?\nRisk management is the process of identifying, assessing, and minimizing the impact of financial risks. These risks can come from various areas like health, life, property, job loss, legal liabilities, or natural disasters.\n\nIt doesn’t mean avoiding risks completely — that’s not realistic. Instead, it means preparing for them so they don’t cause major financial harm.\n\n What Is Insurance and How It Helps\nInsurance is a contract where you pay a small amount (premium) regularly to an insurer, and in return, they promise to financially protect you in case of a covered event.\n\nIt works on the principle of risk pooling: many people pay premiums, and the pooled money is used to help those who face a loss.\n\nThere are two main types:\n1. Life Insurance – Covers the risk of death\n2. General Insurance – Covers everything else (health, vehicles, property, travel, etc.)\n\n Types of Insurance You Should Know\n1. Life Insurance\nProvides a financial safety net for your dependents in case of your death.\n- Term Insurance: Low-cost, pure protection plan (recommended for most people)\n- Endowment/ULIP: Combines insurance with savings/investments but has higher costs\n\n2. Health Insurance\nCovers hospitalization, treatments, surgeries, and sometimes OPD care.\n- Individual plans\n- Family floater plans\n- Critical illness cover\n\n3. Motor Insurance\nMandatory by law in India for all vehicles.\n- Third-party: Covers damage to others\n- Comprehensive: Covers both third-party and your own vehicle\n\n4. Property/Home Insurance\nProtects your home from fire, theft, flood, or damage.\n\n5. Travel Insurance\nUseful when going abroad — covers trip cancellations, medical emergencies, lost baggage, etc.\n\n Why Term Insurance Is Often the Best Option\nTerm insurance offers the highest coverage at the lowest premium. It doesn’t give returns like endowment plans, but if your goal is protection (not saving), term plans are ideal.\n\nExample:\nA healthy 30-year-old can get ₹1 crore coverage for 30 years at ₹8,000–₹12,000 annually — a small cost for peace of mind.\n\nCommon Risks People Ignore\n- Not having health insurance (can ruin your savings)\n- No income protection (job loss, disability)\n- Underinsuring life cover (too little coverage to support family)\n- No insurance for house contents\n- Not disclosing medical conditions truthfully (may lead to claim rejection)\n\n How Much Insurance Do You Need?\nFor Life Insurance: 10–20 times your annual income\nFor Health Insurance: Minimum ₹5–10 lakh coverage per person, more if in a metro city\nFor Term Insurance: Should cover future expenses of family — loans, education, lifestyle\n\n Claim Settlement Ratio — What It Means\nIt shows how many claims an insurer approves out of every 100. A higher ratio (above 95%) is considered good.\n\n Riders — Customize Your Insurance\nYou can add riders (add-ons) to your main policy:\n- Accidental Death Benefit\n- Critical Illness Rider\n- Waiver of Premium\nThese increase protection for a small extra cost.\n\n Insurance Is Not an Investment\nA common mistake is treating insurance like a savings scheme. Don’t buy policies that mix insurance and investments unless you understand the trade-offs. Pure investment products (like mutual funds) and pure protection products (like term plans) should be kept separate.\n\n Risk Transfer vs Risk Retention\nInsurance = transferring risk to insurer\nEmergency Fund = retaining small risks (minor medical costs, job gap)\nTogether, they form your protection shield.\n\n Bottom Line\nInsurance is your financial safety net. Risk management is your proactive strategy. Combine both and you’ll not only build wealth — you’ll protect it.\nBeing underinsured or ignoring risks is like building a house without a foundation. So before you invest, ensure you're protected.",
+          "additionalImages": [
+            "https://res.cloudinary.com/drpti5prb/image/upload/course_image_709303886Risk_Management_and_Insurance_wy8l7e",
+            "https://res.cloudinary.com/drpti5prb/image/upload/k5tcqqd1_edctrw"
+          ],
+          "videoLinks": [
+            "https://www.youtube.com/watch?v=mktNDebfF3o",
+            "video_url_1",
+            "video_url_2"
+          ],
+          "quiz": [
+            {
+              "question": "What is the primary purpose of insurance?",
+              "options": [
+                "To increase income",
+                "To avoid paying taxes",
+                "To protect against financial loss",
+                "To earn high returns"
+              ],
+              "answer": "To protect against financial loss"
+            },
+            {
+              "question": "Which type of insurance provides coverage only in case of the policyholder's death?",
+              "options": [
+                "Health Insurance",
+                "ULIP",
+                "Term Life Insurance",
+                "Motor Insurance"
+              ],
+              "answer": "Term Life Insurance"
+            },
+            {
+              "question": "Which type of insurance is mandatory by law in India for all vehicles?",
+              "options": [
+                "Comprehensive",
+                "Third-party",
+                "Zero depreciation",
+                "Life insurance"
+              ],
+              "answer": "Third-party"
+            },
+            {
+              "question": "Why is term insurance recommended over endowment plans?",
+              "options": [
+                "It offers investment benefits",
+                "It is more expensive",
+                "It provides higher coverage at a lower premium",
+                "It gives guaranteed returns"
+              ],
+              "answer": "It provides higher coverage at a lower premium"
+            },
+            {
+              "question": "What is a good claim settlement ratio for an insurance company?",
+              "options": [
+                "Above 60%",
+                "Above 75%",
+                "Above 90%",
+                "Above 95%"
+              ],
+              "answer": "Above 95%"
+            },
+            {
+              "question": "Which of the following is NOT a general insurance type?",
+              "options": [
+                "Health Insurance",
+                "Motor Insurance",
+                "Endowment Plan",
+                "Travel Insurance"
+              ],
+              "answer": "Endowment Plan"
+            },
+            {
+              "question": "How much life insurance coverage is generally recommended?",
+              "options": [
+                "5 times your income",
+                "10–20 times your income",
+                "Equal to your monthly expenses",
+                "Depends on your age only"
+              ],
+              "answer": "10–20 times your income"
+            },
+            {
+              "question": "What does a Critical Illness Rider do?",
+              "options": [
+                "Reduces your premium",
+                "Provides a lump sum if diagnosed with serious illness",
+                "Covers property damage",
+                "Extends your policy term"
+              ],
+              "answer": "Provides a lump sum if diagnosed with serious illness"
+            },
+            {
+              "question": "What is risk pooling in insurance?",
+              "options": [
+                "Investing in multiple funds",
+                "Sharing risks across a large group of people",
+                "Avoiding taxes using insurance",
+                "Pooling returns for growth"
+              ],
+              "answer": "Sharing risks across a large group of people"
+            },
+            {
+              "question": "Why should you not treat insurance as an investment?",
+              "options": [
+                "It doesn't offer any returns",
+                "It is only for the rich",
+                "Mixed products have high costs and lower transparency",
+                "You don’t need insurance if you invest"
+              ],
+              "answer": "Mixed products have high costs and lower transparency"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "685912e82182920369536006"
+  },
+  "seriesTitle": "Start Smart: Your Friendly Guide to Finance & Money Management",
+  "customId": "level2-topic-006",
+  "levels": [
+    {
+      "level": 2,
+      "topics": [
+        {
+          "topic": "Behavioral Finance",
+          "customId": "level2-topic-006",
+          "summary": "Behavioral finance explores how human emotions, biases, and psychological influences affect financial decisions.",
+          "image": "https://res.cloudinary.com/drpti5prb/image/upload/behavioral-finance-introduction-mbaknol.jpg_ikp4te",
+          "content": "While traditional finance assumes that people are rational and always make logical choices, behavioral finance acknowledges that we are human — often driven by fear, greed, overconfidence, and social pressure.\n\n What Is Behavioral Finance?\nBehavioral finance is a field that combines psychology and economics to understand why people sometimes make irrational financial decisions. It studies how cognitive errors and emotional reactions lead to mistakes in investing, saving, spending, and risk-taking.\n\nThis helps explain market anomalies, such as bubbles, crashes, and why people often buy high and sell low.\n\n Common Behavioral Biases in Finance\nUnderstanding these mental traps is key to managing your money more wisely.\n\n1. Confirmation Bias\nYou seek out information that supports what you already believe, and ignore data that contradicts it.\nExample: You believe gold will rise, so you only read articles that say gold is a great buy.\n\n2. Loss Aversion\nYou fear losses more than you value equivalent gains.\nExample: Losing ₹1,000 feels worse than the joy of gaining ₹1,000 — so you avoid risk, even when it may be profitable.\n\n3. Overconfidence Bias\nYou think you know more than you do.\nExample: A person makes bold stock picks without research, believing they can't go wrong.\n\n4. Herd Mentality\nYou follow what others are doing, even if it’s irrational.\nExample: Buying stocks just because everyone else is, even if the price is already too high.\n\n5. Anchoring\nYou rely too heavily on the first piece of information (the anchor) when making decisions.\nExample: You see a stock once at ₹1,000 and think anything below that is a bargain, regardless of current fundamentals.\n\n6. Mental Accounting\nYou treat money differently based on where it comes from or what you’ve labeled it for.\nExample: You splurge your bonus but are strict with your regular salary — even though all money is equal.\n\n7. Recency Bias\nYou give more weight to recent events than older ones.\nExample: If the stock market crashed last month, you might think it will keep crashing — even if long-term trends are positive.\n\n Real-World Impact of Behavioral Biases\nBehavioral biases can:\n- Make you panic during a market dip and sell at a loss\n- Stop you from investing due to past mistakes\n- Lead you to ignore diversification\n- Encourage impulsive spending or revenge shopping\n\nIn short, biases can damage both wealth creation and wealth preservation if left unchecked.\n\n Behavioral Finance in Market Trends\nBehavioral finance explains why:\n- Bubbles form (investors pile in based on herd mentality)\n- Markets overreact to news (emotional trading)\n- Investors ignore fundamentals during FOMO (fear of missing out)\n\n How to Manage Behavioral Biases\n1. Awareness: Recognizing your biases is the first step.\n2. Automate Investments: Use SIPs (Systematic Investment Plans) to avoid emotional decisions.\n3. Diversify: Spread risk so no single bad decision hurts too much.\n4. Stick to a Plan: Have a financial plan and follow it — not your impulses.\n5. Take a Pause: Delay decisions during high emotion (euphoria or panic).\n6. Use Financial Advisors: They can bring objectivity and remove emotion from decisions.\n\n Why It Matters\nEven if you have perfect knowledge of investing, behavioral mistakes can erode your returns. Emotional investing is like driving drunk — you're moving, but dangerously. Behavioral finance gives you the tools to stay in control.\n\nUnderstanding behavioral finance helps you become a more thoughtful investor and a more mindful spender. It’s not just about managing money — it’s about managing your mind.",
+          "additionalImages": [
+            "https://res.cloudinary.com/drpti5prb/image/upload/2023_04_Understanding-Break-Statement-in-C-54_pkjihs",
+            "https://res.cloudinary.com/drpti5prb/image/upload/h2_Fundamentals-of-Behavioral-Finance__h2_-visual-selection-1_aiakuh"
+          ],
+          "videoLinks": [
+            "https://www.youtube.com/watch?v=LIRhmCfPc_c",
+            "video_url_1",
+            "video_url_2"
+          ],
+          "quiz": [
+            {
+              "question": "What does behavioral finance primarily study?",
+              "options": [
+                "Technical analysis of stocks",
+                "Macroeconomic policy",
+                "How emotions and biases affect financial decisions",
+                "Tax regulations and accounting"
+              ],
+              "answer": "How emotions and biases affect financial decisions"
+            },
+            {
+              "question": "What is 'loss aversion'?",
+              "options": [
+                "Avoiding losses at any cost, even if gains are missed",
+                "Investing only in low-risk assets",
+                "Selling assets quickly to avoid taxes",
+                "Diversifying to reduce portfolio volatility"
+              ],
+              "answer": "Avoiding losses at any cost, even if gains are missed"
+            },
+            {
+              "question": "Which bias explains why people often buy a stock just because others are doing so?",
+              "options": [
+                "Anchoring Bias",
+                "Confirmation Bias",
+                "Herd Mentality",
+                "Mental Accounting"
+              ],
+              "answer": "Herd Mentality"
+            },
+            {
+              "question": "What is 'anchoring' in behavioral finance?",
+              "options": [
+                "Focusing only on long-term returns",
+                "Clinging to initial information as a reference point",
+                "Avoiding risky investments",
+                "Comparing financial goals with peers"
+              ],
+              "answer": "Clinging to initial information as a reference point"
+            },
+            {
+              "question": "What does 'overconfidence bias' lead to?",
+              "options": [
+                "Excessive diversification",
+                "Underestimating market risks",
+                "Improved decision-making",
+                "More insurance coverage"
+              ],
+              "answer": "Underestimating market risks"
+            },
+            {
+              "question": "Which strategy helps reduce emotional investing?",
+              "options": [
+                "Timing the market",
+                "Following social media advice",
+                "Systematic Investment Plans (SIPs)",
+                "Buying based on tips"
+              ],
+              "answer": "Systematic Investment Plans (SIPs)"
+            },
+            {
+              "question": "What is 'mental accounting'?",
+              "options": [
+                "Using complex math for investments",
+                "Treating money differently depending on its source or label",
+                "Only investing in known companies",
+                "Tracking expenses in a diary"
+              ],
+              "answer": "Treating money differently depending on its source or label"
+            },
+            {
+              "question": "Which bias might cause you to panic sell during a market dip?",
+              "options": [
+                "Confirmation Bias",
+                "Recency Bias",
+                "Anchoring",
+                "Mental Accounting"
+              ],
+              "answer": "Recency Bias"
+            },
+            {
+              "question": "How can you avoid falling into behavioral finance traps?",
+              "options": [
+                "Make quick decisions",
+                "Avoid planning",
+                "Invest emotionally",
+                "Follow a pre-set financial plan"
+              ],
+              "answer": "Follow a pre-set financial plan"
+            },
+            {
+              "question": "Why is awareness of behavioral biases important?",
+              "options": [
+                "To choose the best insurance policy",
+                "To calculate returns accurately",
+                "To improve decision-making and reduce financial mistakes",
+                "To avoid tax penalties"
+              ],
+              "answer": "To improve decision-making and reduce financial mistakes"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "685913012182920369536008"
+  },
+  "seriesTitle": "Start Smart: Your Friendly Guide to Finance & Money Management",
+  "customId": "level2-topic-007",
+  "levels": [
+    {
+      "level": 2,
+      "topics": [
+        {
+          "topic": "Financial Statements & Accounting Basics",
+          "customId": "level2-topic-007",
+          "summary": "Understanding financial statements and accounting basics is like learning the language of money.",
+          "image": "https://res.cloudinary.com/drpti5prb/image/upload/9ue4pkav_qzs1ss",
+          "content": "Whether you're managing your own budget, analyzing a company, or running a business — knowing how to read and interpret financial reports helps you make informed decisions.\n\n What Is Accounting?\nAccounting is the process of recording, summarizing, analyzing, and reporting financial transactions. It helps track where money comes from, where it goes, and what it means for your financial health. In business, accounting keeps stakeholders — like investors, banks, and managers — informed and accountable.\n\n The Accounting Equation\nAt the heart of all accounting lies this simple formula:\nAssets = Liabilities + Equity\nThis equation ensures that a company’s financial records are balanced. Assets are what a company owns. Liabilities are what it owes. Equity is what’s left for the owners.\n\n Key Financial Statements\nThere are three main financial statements you should know:\n\n1. Income Statement (Profit & Loss Statement)\n- Shows revenues, expenses, and profit or loss over a specific period.\n- Helps answer: “Is the company making money?”\n- Formula: Revenue – Expenses = Net Profit\n\n2. Balance Sheet\n- Snapshot of the company’s financial position at a specific point in time.\n- Lists assets, liabilities, and shareholders’ equity.\n- Helps answer: “What is the company worth right now?”\n\n3. Cash Flow Statement\n- Shows how cash moves in and out of the business.\n- Divided into: Operating Activities, Investing Activities, Financing Activities.\n- Helps answer: “Is the company generating actual cash?”\n\n Double-Entry Bookkeeping\nThis system means every transaction affects two accounts:\n- One account is debited\n- Another account is credited\nThis keeps the accounting equation balanced and accurate.\nExample: Buying a laptop with cash means: Debit (Asset - Equipment), Credit (Asset - Cash)\n\n Common Accounting Terms Simplified\n- Revenue: Money earned from sales or services\n- Expenses: Costs to run the business (salaries, rent, electricity)\n- Gross Profit: Revenue minus cost of goods sold\n- Net Profit: Final profit after all expenses\n- Depreciation: Gradual reduction in value of an asset\n- Accounts Receivable: Money owed to the business\n- Accounts Payable: Money the business owes to others\n\n Importance of Financial Statements\n- For individuals: Helps with budgeting, loan eligibility, tracking income and expenses\n- For businesses: Critical for decision-making, attracting investors, getting credit, and complying with tax laws\n\n How to Read a Balance Sheet\nAssets are usually listed in order of liquidity (how easily they can be turned into cash).\nLiabilities are shown as short-term (due in under 1 year) and long-term.\nEquity includes retained earnings and owner’s investment.\n\nExample:\nIf a company has ₹10 lakh in assets, ₹6 lakh in liabilities, the equity is ₹4 lakh.\n\n Profit Is Not Cash\nA business can be profitable and still run out of cash. This is why the cash flow statement is important. It helps detect if a company is running low on liquid funds even if its income statement looks healthy.\n\n Accounting vs Bookkeeping\n- Bookkeeping is the basic process of recording transactions\n- Accounting involves analyzing and interpreting the recorded data to make decisions\n\n Bottom Line\nKnowing the basics of accounting and financial statements empowers you to evaluate opportunities, manage your money, and avoid costly mistakes. It brings transparency, discipline, and structure to your financial life — whether personal or business.",
+          "additionalImages": [
+            "https://res.cloudinary.com/drpti5prb/image/upload/tomratsh_brvzwd",
+            "https://res.cloudinary.com/drpti5prb/image/upload/esptzvmp_nq4ezu"
+          ],
+          "videoLinks": [
+            "\nhttps://www.youtube.com/watch?v=eorpdJUWfTA\n",
+            "video_url_1",
+            "video_url_2"
+          ],
+          "quiz": [
+            {
+              "question": "What is the primary equation in accounting?",
+              "options": [
+                "Assets = Revenue + Expenses",
+                "Liabilities = Assets + Equity",
+                "Assets = Liabilities + Equity",
+                "Profit = Assets – Liabilities"
+              ],
+              "answer": "Assets = Liabilities + Equity"
+            },
+            {
+              "question": "Which statement shows a company’s financial position at a specific point in time?",
+              "options": [
+                "Income Statement",
+                "Cash Flow Statement",
+                "Trial Balance",
+                "Balance Sheet"
+              ],
+              "answer": "Balance Sheet"
+            },
+            {
+              "question": "What does the income statement primarily show?",
+              "options": [
+                "Cash movement",
+                "Company valuation",
+                "Profit or loss over a period",
+                "Assets and liabilities"
+              ],
+              "answer": "Profit or loss over a period"
+            },
+            {
+              "question": "Which financial statement tracks cash inflows and outflows?",
+              "options": [
+                "Balance Sheet",
+                "Cash Flow Statement",
+                "Income Statement",
+                "Capital Statement"
+              ],
+              "answer": "Cash Flow Statement"
+            },
+            {
+              "question": "What does 'double-entry bookkeeping' mean?",
+              "options": [
+                "Entering data twice",
+                "Recording only revenues",
+                "Every transaction affects two accounts",
+                "Posting at the end of the month"
+              ],
+              "answer": "Every transaction affects two accounts"
+            },
+            {
+              "question": "What are 'accounts receivable'?",
+              "options": [
+                "Bills to pay to suppliers",
+                "Money owed to the business",
+                "Company’s liabilities",
+                "Assets in cash only"
+              ],
+              "answer": "Money owed to the business"
+            },
+            {
+              "question": "Why is the cash flow statement important even if profits look good?",
+              "options": [
+                "It shows income tax payments",
+                "It reflects profit trends",
+                "It helps spot cash shortages",
+                "It lists customer details"
+              ],
+              "answer": "It helps spot cash shortages"
+            },
+            {
+              "question": "What is the difference between bookkeeping and accounting?",
+              "options": [
+                "Accounting is manual, bookkeeping is digital",
+                "Bookkeeping is about data entry; accounting involves analysis",
+                "Bookkeeping is optional",
+                "There is no difference"
+              ],
+              "answer": "Bookkeeping is about data entry; accounting involves analysis"
+            },
+            {
+              "question": "Which of the following is NOT an asset?",
+              "options": [
+                "Cash",
+                "Inventory",
+                "Accounts Payable",
+                "Equipment"
+              ],
+              "answer": "Accounts Payable"
+            },
+            {
+              "question": "Which term refers to the money a company earns before deducting costs?",
+              "options": [
+                "Equity",
+                "Net Profit",
+                "Revenue",
+                "Depreciation"
+              ],
+              "answer": "Revenue"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68591311218292036953600a"
+  },
+  "seriesTitle": "Start Smart: Your Friendly Guide to Finance & Money Management",
+  "customId": "level2-topic-008",
+  "levels": [
+    {
+      "level": 2,
+      "topics": [
+        {
+          "topic": "Debt Management Strategies",
+          "customId": "level2-topic-008",
+          "summary": "Debt is a financial tool that can help you achieve goals — like buying a home, starting a business, or covering education — but if unmanaged, it can quickly spiral into a burden.",
+          "image": "https://res.cloudinary.com/drpti5prb/image/upload/Understanding_debt_management_strategies_to_manage_do9c8e",
+          "content": "That’s why learning how to manage debt strategically is essential for maintaining financial health and long-term stability.\n\n What Is Debt Management?\nDebt management refers to the strategies and practices that help individuals or businesses control, reduce, and eventually eliminate debt. It involves prioritizing repayments, understanding interest rates, improving credit habits, and preventing debt accumulation.\n\n Types of Debt\nUnderstanding the nature of your debt is the first step:\n- Secured Debt: Backed by collateral (e.g., home loan, car loan)\n- Unsecured Debt: Not backed by assets (e.g., credit cards, personal loans)\n- Good Debt: Used for productive purposes like education or investments\n- Bad Debt: Used for consumption or depreciating assets, especially with high interest (like credit card debt)\n\n Key Debt Management Strategies\n1. Budgeting for Repayment\nStart by tracking your income and expenses. Allocate a fixed portion of your income toward debt repayments. Use budgeting methods like the 50/30/20 rule — where 20% goes to savings and debt reduction.\n\n2. Debt Snowball Method\n- List your debts from smallest to largest balance.\n- Pay minimums on all but the smallest.\n- Pay off the smallest first, then roll that amount into the next one.\nThis builds momentum and motivation.\n\n3. Debt Avalanche Method\n- List debts from highest to lowest interest rate.\n- Pay minimums on all but the highest-interest debt.\n- Focus on paying off the high-interest one first.\nThis saves the most money over time.\n\n4. Avoiding New Debt\nWhile paying down existing debt, avoid taking on new loans or using credit unnecessarily. Reduce discretionary expenses and focus on needs over wants.\n\n5. Debt Consolidation\nIf you have multiple debts, you can combine them into one loan — ideally with a lower interest rate. This simplifies payments and may reduce overall interest.\n\n6. Automating Payments\nSet up auto-debit for EMIs or credit card payments to avoid missing due dates and incurring late fees, which hurt your credit score.\n\n7. Negotiating With Creditors\nYou can often negotiate lower interest rates, waive penalties, or restructure payment plans — especially if you're facing genuine financial hardship.\n\n8. Increasing Income\nConsider taking up freelance work, part-time jobs, or monetizing hobbies to generate extra cash to pay off debt faster.\n\n Managing Credit Cards\n- Use only if you can pay the full balance each month.\n- Avoid minimum payments, as they keep you trapped in debt.\n- Don’t max out the card — keep credit usage below 30%.\n- Always pay on time to maintain a healthy credit score.\n\n Warning Signs of Poor Debt Management\n- Only making minimum payments\n- Borrowing to pay off other debts\n- Frequently missing due dates\n- Feeling overwhelmed by monthly bills\n- Having no savings left after debt payments\n\n Long-Term Debt Freedom\nDebt management isn't just about getting out of debt — it’s about staying out. Once you’re debt-free, redirect your payments toward savings, investing, and emergency funds.\n\n Professional Help\nIf overwhelmed, consider speaking to:\n- Certified credit counselors\n- Financial planners\n- Debt management or settlement agencies (but be cautious of scams)\n\n Final Thought\nDebt doesn’t have to control your life. With the right mindset and strategies, you can take charge of your financial future, reduce stress, and focus on building wealth instead of owing it.",
+          "additionalImages": [
+            "https://res.cloudinary.com/drpti5prb/image/upload/oz7oxeso_cqxxvz",
+            "https://res.cloudinary.com/drpti5prb/image/upload/1684099229063_barfjg"
+          ],
+          "videoLinks": [
+            "https://www.youtube.com/watch?v=417_E7ltxTc",
+            "video_url_1",
+            "video_url_2"
+          ],
+          "quiz": [
+            {
+              "question": "What is the main goal of debt management?",
+              "options": [
+                "To increase spending power",
+                "To eliminate all taxes",
+                "To control, reduce, and eventually eliminate debt",
+                "To build a credit card collection"
+              ],
+              "answer": "To control, reduce, and eventually eliminate debt"
+            },
+            {
+              "question": "What type of debt is backed by collateral?",
+              "options": [
+                "Unsecured debt",
+                "Secured debt",
+                "Credit card debt",
+                "Floating debt"
+              ],
+              "answer": "Secured debt"
+            },
+            {
+              "question": "Which method focuses on paying off the smallest debt first?",
+              "options": [
+                "Debt Avalanche Method",
+                "Interest-Only Method",
+                "Debt Snowball Method",
+                "Consolidation Method"
+              ],
+              "answer": "Debt Snowball Method"
+            },
+            {
+              "question": "Which method helps you save the most on interest?",
+              "options": [
+                "Debt Snowball Method",
+                "Minimum Payment Plan",
+                "Debt Avalanche Method",
+                "Cash Flow Stacking"
+              ],
+              "answer": "Debt Avalanche Method"
+            },
+            {
+              "question": "Why is debt consolidation useful?",
+              "options": [
+                "It avoids paying anything back",
+                "It increases total interest",
+                "It simplifies payments and may reduce interest",
+                "It makes budgeting harder"
+              ],
+              "answer": "It simplifies payments and may reduce interest"
+            },
+            {
+              "question": "What is a good credit card usage strategy?",
+              "options": [
+                "Max out your limit every month",
+                "Only pay the minimum due",
+                "Keep credit usage below 30%",
+                "Avoid all payments"
+              ],
+              "answer": "Keep credit usage below 30%"
+            },
+            {
+              "question": "Which of these is a warning sign of poor debt management?",
+              "options": [
+                "Paying more than required",
+                "Having an emergency fund",
+                "Borrowing to pay off other debts",
+                "Tracking expenses regularly"
+              ],
+              "answer": "Borrowing to pay off other debts"
+            },
+            {
+              "question": "How can automating payments help?",
+              "options": [
+                "Increases spending",
+                "Reduces interest rates automatically",
+                "Avoids late fees and missed payments",
+                "Eliminates taxes"
+              ],
+              "answer": "Avoids late fees and missed payments"
+            },
+            {
+              "question": "What is the recommended action if you feel overwhelmed by debt?",
+              "options": [
+                "Take on more loans",
+                "Ignore it and wait",
+                "Speak to credit counselors or financial planners",
+                "Apply for more credit cards"
+              ],
+              "answer": "Speak to credit counselors or financial planners"
+            },
+            {
+              "question": "Once you're debt-free, what should you do next?",
+              "options": [
+                "Take a break from saving",
+                "Increase your spending",
+                "Redirect payments toward savings and investing",
+                "Close all bank accounts"
+              ],
+              "answer": "Redirect payments toward savings and investing"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68591321218292036953600c"
+  },
+  "seriesTitle": "Start Smart: Your Friendly Guide to Finance & Money Management",
+  "customId": "level2-topic-009",
+  "levels": [
+    {
+      "level": 2,
+      "topics": [
+        {
+          "topic": "Economic Indicators & Their Impact",
+          "customId": "level2-topic-009",
+          "summary": "Economic indicators are like health reports for an economy.",
+          "image": "https://res.cloudinary.com/drpti5prb/image/upload/EP_-_GDP_Growth_Should_Guide_jj4vxs",
+          "content": "They provide snapshots of how well a country's financial systems are functioning, and they help individuals, businesses, and governments make better decisions. Whether you're an investor, a job seeker, or a business owner, understanding these indicators can give you valuable insight into the bigger economic picture.\n\n What Are Economic Indicators?\nEconomic indicators are data points or statistics that reflect the state of the economy. They are typically released by government agencies or financial institutions and are used to measure performance in areas such as employment, inflation, GDP, consumer spending, and more.\n\nThere are three major types of economic indicators:\n- Leading Indicators: Predict future economic trends (e.g., stock market performance, new business startups)\n- Lagging Indicators: Confirm trends after they occur (e.g., unemployment rate, corporate profits)\n- Coincident Indicators: Move with the economy and show its current state (e.g., GDP, retail sales)\n\n Key Economic Indicators to Know\n1. Gross Domestic Product (GDP)\nGDP measures the total value of goods and services produced within a country over a specific time. Rising GDP indicates economic growth, while falling GDP may signal recession.\n\n2. Inflation Rate\nThis measures the rate at which prices for goods and services increase over time. Moderate inflation is normal in a growing economy, but high inflation reduces purchasing power.\n\n3. Unemployment Rate\nThis is the percentage of the labor force that is jobless but actively seeking employment. High unemployment generally reflects economic distress, while low unemployment shows a healthy labor market.\n\n4. Interest Rates\nSet by a country's central bank (like the RBI in India), interest rates affect borrowing and spending. Low interest rates encourage borrowing and investment; high rates slow down inflation and spending.\n\n5. Consumer Price Index (CPI)\nCPI tracks the average change in prices paid by consumers for a basket of goods and services. It is a key measure of inflation from the consumer's perspective.\n\n6. Producer Price Index (PPI)\nPPI measures price changes from the perspective of producers. It shows how much producers are paying for raw materials and goods, often predicting future consumer price changes.\n\n7. Consumer Confidence Index (CCI)\nThis reflects how optimistic or pessimistic consumers are about the economy. High confidence usually leads to more spending; low confidence can cause saving and reduced demand.\n\n8. Balance of Trade\nThis is the difference between a country’s exports and imports. A trade surplus (exports > imports) strengthens a country’s currency, while a deficit may weaken it.\n\n9. Stock Market Indices (e.g., Sensex, Nifty)\nWhile not always perfectly accurate, market indices reflect investor confidence and future expectations about economic growth.\n\n How They Impact Personal Finances and Business\n- Inflation can erode savings if returns don’t keep up with price increases.\n- Interest rate changes affect loan EMIs, mortgage rates, and investment returns.\n- High unemployment can mean fewer job opportunities and lower income.\n- GDP trends influence investment markets, business expansions, and consumer demand.\n- Consumer confidence affects whether people spend or save, influencing business profits.\n\n Using Economic Indicators in Decision Making\nAs an individual:\n- Watch inflation to plan long-term savings\n- Monitor interest rates before taking loans or investing\n- Track job market indicators before switching careers\n\nAs a business:\n- Use GDP and CCI to forecast demand\n- Factor in PPI for pricing strategy\n- Watch trade data to assess currency fluctuations and international costs\n\n Final Thought\nEconomic indicators may sound technical, but they affect your daily life — from your grocery bills to your job security. Learning how to interpret these signals empowers you to make smarter financial, career, and business decisions.",
+          "additionalImages": [
+            "https://res.cloudinary.com/drpti5prb/image/upload/What-are-Economic-Indicators-Leading-Lagging-Coincident-Indicators-examples_c5kq0x",
+            "https://res.cloudinary.com/drpti5prb/image/upload/fte904jl_zrkkgy"
+          ],
+          "videoLinks": [
+            "https://www.youtube.com/watch?v=nFyafrzdRKQ",
+            "video_url_1",
+            "video_url_2"
+          ],
+          "quiz": [
+            {
+              "question": "What does GDP measure?",
+              "options": [
+                "The number of government policies",
+                "The unemployment rate",
+                "Total value of goods and services produced",
+                "Changes in consumer confidence"
+              ],
+              "answer": "Total value of goods and services produced"
+            },
+            {
+              "question": "Which of the following is a leading economic indicator?",
+              "options": [
+                "Unemployment rate",
+                "GDP growth",
+                "Stock market performance",
+                "Interest rates"
+              ],
+              "answer": "Stock market performance"
+            },
+            {
+              "question": "What does a high unemployment rate typically indicate?",
+              "options": [
+                "Strong job market",
+                "Economic distress",
+                "Increased wages",
+                "Rapid economic growth"
+              ],
+              "answer": "Economic distress"
+            },
+            {
+              "question": "What is the purpose of the Consumer Price Index (CPI)?",
+              "options": [
+                "Measure wages",
+                "Track producer costs",
+                "Monitor consumer price changes",
+                "Report tax rates"
+              ],
+              "answer": "Monitor consumer price changes"
+            },
+            {
+              "question": "Which indicator shows how confident people are in the economy?",
+              "options": [
+                "PPI",
+                "CPI",
+                "Consumer Confidence Index",
+                "Trade Balance"
+              ],
+              "answer": "Consumer Confidence Index"
+            },
+            {
+              "question": "What happens if a country’s imports exceed its exports?",
+              "options": [
+                "It has a trade surplus",
+                "Its currency strengthens",
+                "It has a trade deficit",
+                "Its inflation drops"
+              ],
+              "answer": "It has a trade deficit"
+            },
+            {
+              "question": "Which body typically sets interest rates in a country?",
+              "options": [
+                "The Finance Ministry",
+                "Stock Exchange",
+                "Central Bank",
+                "Credit Rating Agency"
+              ],
+              "answer": "Central Bank"
+            },
+            {
+              "question": "What does the Producer Price Index (PPI) measure?",
+              "options": [
+                "Prices consumers pay for goods",
+                "Prices producers pay for inputs",
+                "Employee salaries",
+                "Stock market growth"
+              ],
+              "answer": "Prices producers pay for inputs"
+            },
+            {
+              "question": "How can high inflation affect consumers?",
+              "options": [
+                "Increases purchasing power",
+                "Reduces job opportunities",
+                "Erodes savings value",
+                "Increases exports"
+              ],
+              "answer": "Erodes savings value"
+            },
+            {
+              "question": "Which economic indicator moves in real time with the economy?",
+              "options": [
+                "Leading indicator",
+                "Lagging indicator",
+                "Coincident indicator",
+                "Trailing indicator"
+              ],
+              "answer": "Coincident indicator"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68591334218292036953600e"
+  },
+  "seriesTitle": "Start Smart: Your Friendly Guide to Finance & Money Management",
+  "customId": "level2-topic-010",
+  "levels": [
+    {
+      "level": 2,
+      "topics": [
+        {
+          "topic": "Cryptocurrency & Digital Finance",
+          "customId": "level2-topic-010",
+          "summary": "Cryptocurrency and digital finance have emerged as revolutionary forces transforming how people store, transfer, and invest money.",
+          "image": "https://res.cloudinary.com/drpti5prb/image/upload/crytpo_l6gw52",
+          "content": "While traditional finance depends on banks, government institutions, and intermediaries, digital finance — especially crypto — relies on decentralized technologies that offer new possibilities and challenges.\n\n What is Cryptocurrency?\nCryptocurrency is a form of digital or virtual currency that uses cryptography (complex encryption) for security. Unlike traditional currencies like the rupee or dollar, cryptocurrencies are decentralized and often not issued or regulated by any central authority. They run on blockchain technology — a distributed ledger that records all transactions across a network of computers.\n\nExamples of popular cryptocurrencies include Bitcoin (BTC), Ethereum (ETH), Binance Coin (BNB), and Solana (SOL).\n\n Blockchain Technology\nBlockchain is the foundation of cryptocurrency. Think of it as a digital ledger or spreadsheet duplicated across a network of computers, where every transaction is recorded in a block and linked to the previous one. This system ensures:\n- Transparency: All transactions are visible on the public ledger.\n- Immutability: Transactions, once added, cannot be altered.\n- Security: Hacking the system is nearly impossible due to decentralized verification.\n\n Key Features of Cryptocurrency\n- Decentralization: No single authority controls it.\n- Limited Supply: Most cryptos have a fixed or controlled supply (e.g., Bitcoin has a max limit of 21 million).\n- Anonymity & Privacy: Transactions are pseudonymous.\n- High Volatility: Prices can fluctuate wildly in short periods.\n\n Use Cases of Cryptocurrency\n- Investment: Many people buy crypto hoping its value will rise.\n- Payments: Used to pay for goods and services, especially online.\n- Remittances: Sending money across borders quickly and with lower fees.\n- Decentralized Finance (DeFi): Financial services like lending, borrowing, or earning interest — without traditional banks.\n- NFTs & Web3: Crypto enables ownership of digital art and assets (Non-Fungible Tokens).\n\n What is Digital Finance?\nDigital finance refers to the broad use of technology in delivering financial services. It includes:\n- Mobile Banking\n- UPI Payments (like Google Pay, PhonePe)\n- Online Investing Platforms (like Zerodha, Groww)\n- Digital Wallets (like Paytm, PayPal)\n- Robo-Advisors\n- Buy Now Pay Later (BNPL) services\n\nWhile cryptocurrency is part of digital finance, digital finance as a whole also includes regulated, centralized platforms and services.\n\n Benefits of Digital Finance\n- Convenience: Access anytime, anywhere\n- Speed: Instant transfers, fast account setup\n- Accessibility: Financial inclusion for the unbanked\n- Automation: Tools for budgeting, investing, and saving\n\n Risks & Concerns\n- Security Risks: Crypto wallets and exchanges can be hacked\n- Price Volatility: Crypto values can drop significantly\n- Scams & Fraud: Ponzi schemes, rug pulls, and fake tokens are common\n- Regulatory Uncertainty: Many countries are still deciding how to regulate crypto\n- Lack of Consumer Protection: If you lose your private key, you lose access to your funds\n\n How to Start Safely\n- Educate Yourself: Learn before investing or using crypto\n- Use Trusted Platforms: Choose reputable apps and exchanges\n- Enable 2FA: Two-Factor Authentication adds security\n- Start Small: Don’t invest more than you can afford to lose\n- Keep Private Keys Secure: Store them offline if possible (cold wallets)\n\n The Future of Crypto & Digital Finance\n- CBDCs (Central Bank Digital Currencies): Government-issued digital currencies are in development globally\n- Web3: A decentralized internet powered by blockchain\n- Tokenization: Real-world assets (like real estate) could be represented as tokens on the blockchain\n\n Final Thought\nCryptocurrency and digital finance are reshaping the financial landscape. While the innovations offer great potential for growth, they also come with risks that demand informed, cautious participation. Understanding both the power and the pitfalls of this new financial world is the key to making smart, future-ready decisions.",
+          "additionalImages": [
+            "https://res.cloudinary.com/drpti5prb/image/upload/m9w32arl_iiyedj",
+            "https://res.cloudinary.com/drpti5prb/image/upload/960x0_gl2kwx"
+          ],
+          "videoLinks": [
+            "https://www.youtube.com/watch?v=dlGRE2YMD60",
+            "video_url_1",
+            "video_url_2"
+          ],
+          "quiz": [
+            {
+              "question": "What is cryptocurrency primarily built on?",
+              "options": [
+                "Bank databases",
+                "Stock market software",
+                "Blockchain technology",
+                "Government servers"
+              ],
+              "answer": "Blockchain technology"
+            },
+            {
+              "question": "Which of the following is NOT a feature of cryptocurrency?",
+              "options": [
+                "Decentralization",
+                "Fixed supply",
+                "Government control",
+                "Anonymity"
+              ],
+              "answer": "Government control"
+            },
+            {
+              "question": "What is the maximum number of Bitcoins that can exist?",
+              "options": [
+                "Unlimited",
+                "100 million",
+                "21 million",
+                "50 million"
+              ],
+              "answer": "21 million"
+            },
+            {
+              "question": "What does DeFi stand for?",
+              "options": [
+                "Digital Finance",
+                "Default Finance",
+                "Decentralized Finance",
+                "Defined Fund"
+              ],
+              "answer": "Decentralized Finance"
+            },
+            {
+              "question": "Which of these is a risk in cryptocurrency?",
+              "options": [
+                "Government-backed insurance",
+                "Guaranteed profits",
+                "Price volatility",
+                "Fixed returns"
+              ],
+              "answer": "Price volatility"
+            },
+            {
+              "question": "What is a crypto wallet used for?",
+              "options": [
+                "Paying taxes",
+                "Storing and accessing cryptocurrency",
+                "Checking bank balance",
+                "Applying for loans"
+              ],
+              "answer": "Storing and accessing cryptocurrency"
+            },
+            {
+              "question": "What does digital finance NOT include?",
+              "options": [
+                "Mobile banking",
+                "Stock trading apps",
+                "Paper checks",
+                "UPI payments"
+              ],
+              "answer": "Paper checks"
+            },
+            {
+              "question": "What are NFTs?",
+              "options": [
+                "Non-Functional Transfers",
+                "New Financial Tokens",
+                "Non-Fungible Tokens",
+                "Network Fiat Tokens"
+              ],
+              "answer": "Non-Fungible Tokens"
+            },
+            {
+              "question": "What is a common way to protect your crypto wallet?",
+              "options": [
+                "Share your password with friends",
+                "Use cold storage and enable 2FA",
+                "Keep your keys online only",
+                "Use one password for all accounts"
+              ],
+              "answer": "Use cold storage and enable 2FA"
+            },
+            {
+              "question": "What is the role of Central Bank Digital Currencies (CBDCs)?",
+              "options": [
+                "Private investment tools",
+                "Government-issued digital currencies",
+                "Decentralized tokens",
+                "Unregulated crypto coins"
+              ],
+              "answer": "Government-issued digital currencies"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}]

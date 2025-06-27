@@ -1,0 +1,70 @@
+.modules-three-cards {
+  display: flex;
+  justify-content: space-around;
+  padding: 3rem;
+  gap: 2rem;
+  flex-wrap: wrap;
+  background-color: #f7fafc;
+}
+
+.module-card-large {
+  background: white;
+  padding: 2rem;
+  border-radius: 12px;
+  width: 30%;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease;
+}
+
+.module-card-large:hover {
+  transform: translateY(-4px);
+}
+
+.module-card-large h2 {
+  font-size: 1.8rem;
+  color: #2d3748;
+  margin-bottom: 1rem;
+}
+
+.module-card-large .summary {
+  font-size: 1rem;
+  color: #4a5568;
+  margin-bottom: 1.5rem;
+  line-height: 1.5;
+}
+
+.view-btn {
+  background-color: #2b6cb0;
+  color: white;
+  border: none;
+  padding: 0.6rem 1.2rem;
+  border-radius: 6px;
+  cursor: pointer;
+  margin-bottom: 1rem;
+}
+
+.view-btn:hover {
+  background-color: #2c5282;
+}
+
+.topic-list {
+  list-style: none;
+  padding: 0;
+}
+
+.topic-item {
+  padding: 0.5rem 0;
+  cursor: pointer;
+  color: #2b6cb0;
+  transition: color 0.2s ease;
+}
+
+.topic-item:hover {
+  text-decoration: underline;
+}
+
+.topic-item.disabled {
+  color: #a0aec0;
+  cursor: not-allowed;
+  text-decoration: none;
+}
