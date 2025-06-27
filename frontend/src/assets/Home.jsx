@@ -20,7 +20,7 @@ function Home() {
     <div className="home-wrapper">
       {/* NAVBAR */}
       <header className="navbar">
-        <div className="navbar-left">MyApp</div>
+        <div className="navbar-left">FinIQ</div>
         <nav className="navbar-center">
           <a href="#about">About</a>
           <a href="#contact">Contact</a>

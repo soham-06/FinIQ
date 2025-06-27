@@ -13,7 +13,6 @@
 /* Universal content centering for consistency */
 .topic-header,
 .topic-content,
-.topic-summary,
 .topic-main-content,
 .topic-image,
 .additional-images,
@@ -215,4 +214,65 @@
 
 .error {
   color: #dc3545;
+}
+
+.quiz-option.correct {
+  background-color: #2e7d32;
+  /* green */
+  color: white;
+}
+
+.quiz-option.incorrect {
+  background-color: #c62828;
+  /* red */
+  color: white;
+}
+
+.submit-btn {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #1976d2;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 1rem;
+  transition: background-color 0.2s;
+}
+
+.submit-btn:hover {
+  background-color: #125ea6;
+}
+
+.quiz-option.wrong {
+  background-color: #d32f2f;
+  color: white;
+}
+
+.quiz-score-result {
+  margin-top: 16px;
+  font-weight: bold;
+  font-size: 1.1rem;
+  color: #00e676;
+}
+
+.topic-navigation-buttons {
+  margin-top: 40px;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 10px;
+}
+
+.nav-button {
+  background-color: #1976d2;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background-color 0.2s ease;
+}
+
+.nav-button:hover {
+  background-color: #125aa2;
 }
