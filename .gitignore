@@ -9,7 +9,7 @@ yarn-debug.log*
 yarn-error.log*
 
 # Env files
-frontend/.env
+#frontend/.env
 backend/.env
 
 # Build outputs
