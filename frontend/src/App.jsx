@@ -10,7 +10,7 @@ import Modules from "./assets/Modules";
 import Topics from "./assets/Topics";
 import TopicDetailsWrapper from "./assets/TopicDetailsWrapper"; // ✅ Import wrapper
 
-const clientId = "452988976233-v5cck196uoeii6abjlmsi5mto4r6asf9.apps.googleusercontent.com";
+//const clientId = "452988976233-v5cck196uoeii6abjlmsi5mto4r6asf9.apps.googleusercontent.com";
 
 function ProtectedRoute({ children }) {
   const { user } = useAuth();
