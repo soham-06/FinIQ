@@ -1,6 +1,7 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route, Navigate } from "react-router-dom";
 import { GoogleOAuthProvider } from "@react-oauth/google";
+import Profile from "./assets/Profile"; // Import your Profile component
 
 import { AuthProvider, useAuth } from "./assets/AuthContext";
 import Login from "./assets/Login";
@@ -27,7 +28,7 @@ function App() {
             <Route path="/home" element={<ProtectedRoute><Home /></ProtectedRoute>} />
             <Route path="/modules" element={<ProtectedRoute><Modules /></ProtectedRoute>} />
             <Route path="/topics/:level" element={<ProtectedRoute><Topics /></ProtectedRoute>} />
-
+            <Route path="/profile" element={<Profile />} />
             {/* ✅ Use wrapper instead of direct component */}
             <Route
               path="/levels/:levelId/topics/:topicId"

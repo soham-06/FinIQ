@@ -13,6 +13,7 @@ import moduleRoutes from './routes/moduleRoute.js';
 import { errorHandler } from './middlewares/errorMiddleware.js';
 import './config/passportConfig.js';
 import quizScoreRoutes from './routes/QuizscoreRoute.js';
+import userRoutes from './routes/userRoute.js';
 
 dotenv.config();
 
@@ -42,6 +43,8 @@ app.use('/api/auth', authRoutes);
 app.use('/api/auth', googleAuthRoute);
 app.use('/api/levels', moduleRoutes);
 app.use('/api/quiz-scores', quizScoreRoutes);
+app.use('/api/users', userRoutes);
+
 
 // Root route
 app.get('/', (req, res) => {
